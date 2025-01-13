@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks like Vue, React and others**
 
-- 💬 Ask me about **Node JS, Python, C#, Express, MySQL**
+- 💬 Ask me about **Node JS, TypeScript, Laravel, Python, C#, Express, MySQL**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/emily-julieth-nieves-badillo-946b6a224/](https://www.linkedin.com/in/emily-julieth-nieves-badillo-946b6a224/)
 
